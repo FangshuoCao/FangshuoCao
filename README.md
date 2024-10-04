@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fangshuo Cao</h1>
 <h3 align="center">A dedicated, passionate software engineer with a focus on the low level workings of computer system</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 - 📫 How to reach me **fcao4@calstatela.edu**
 
