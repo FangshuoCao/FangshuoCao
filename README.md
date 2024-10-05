@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fangshuo Cao</h1>
+<h1 align="center">Hi 👋, I'm Fangshuo(Alston) Cao</h1>
 <h3 align="center">A dedicated, passionate software engineer with a focus on the low level workings of computer system</h3>
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
 
