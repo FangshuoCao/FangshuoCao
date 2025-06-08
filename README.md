@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fangshuo(Alston) Cao</h1>
-<h3 align="center">A dedicated, passionate software engineer with a focus on the low level workings of computer system</h3>
+<h3 align="center">A dedicated, passionate software engineer</h3>
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/3AyY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fangshuocao&label=Profile%20views&color=0e75b6&style=flat" alt="fangshuocao" /> </p>
 
-- 🔭 I’m currently working on **my senior design project about federated learning, leading a group of 10 people in my university**
-
-- 💬 Ask me about **OS, Network, or Database**
+- 💬 Ask me about **Algorithms, OS, Network, or Database**
 
 - 📫 Contact me: **fcao4@calstatela.edu/alstoncao1999@gmail.com**
 
